@@ -18,8 +18,8 @@
 <a href="mailto:Rankwithyaasir@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="tel:+923099221249">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+<a href="https://wa.me/923099221249?text=Hi%20Yasir%2C%20I%20need%20help%20with%20SEO%20for%20my%20website.%20Can%20you%20help%20me%3F" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp%20%2B92%20309%209221249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=rankyasir&label=Profile+Views&color=00ff88&style=for-the-badge" alt="Profile Views"/>
 
@@ -76,14 +76,19 @@ Email       : Rankwithyaasir@gmail.com
 ![Crawlability](https://img.shields.io/badge/Crawlability_Audit-00ACC1?style=for-the-badge&logoColor=white)
 
 ### 🔗 Link Building & Off-Page SEO
-![Cloud Stacking](https://img.shields.io/badge/Cloud_Stacking-F57F17?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Google Authority Stacking](https://img.shields.io/badge/Google_Authority_Stacking-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Guest Posting](https://img.shields.io/badge/Guest_Posting_DR40+-E53935?style=for-the-badge&logoColor=white)
-![Niche Edits](https://img.shields.io/badge/Niche_Edits-2E7D32?style=for-the-badge&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub_Stacking-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab_Assets-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify_Assets-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+![Cloud Stacking](https://img.shields.io/badge/☁️_Cloud_Stacking_Backlinks-F57F17?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Google Entity](https://img.shields.io/badge/🔵_Google_Entity_Backlinks-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Web 2.0](https://img.shields.io/badge/🌐_Web_2.0_Backlinks-0277BD?style=for-the-badge&logoColor=white)
+![Nandla](https://img.shields.io/badge/⚡_Nandla_Backlinks-6A1B9A?style=for-the-badge&logoColor=white)
+![Amazon Publisher](https://img.shields.io/badge/📦_Softranks_(Amazon_Publisher)-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/🔌_Chrome_Extension_Backlinks-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Firefox Addons](https://img.shields.io/badge/🦊_Firefox_Addons_Backlinks-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+![Forum Backlinks](https://img.shields.io/badge/💬_Forum_Backlinks-00695C?style=for-the-badge&logoColor=white)
+![Blog Commenting](https://img.shields.io/badge/✍️_Blog_Commenting_Backlinks-2E7D32?style=for-the-badge&logoColor=white)
+![Podcast Submission](https://img.shields.io/badge/🎙️_Podcast_Submission_Backlinks-9C27B0?style=for-the-badge&logoColor=white)
+![Video & PDF](https://img.shields.io/badge/🎬_Video_&_PDF_Submission-E53935?style=for-the-badge&logoColor=white)
+![Guest Posts](https://img.shields.io/badge/📰_Guest_Posts_DR40+-C62828?style=for-the-badge&logoColor=white)
 
 ### 🧠 Semantic SEO
 ![Topic Clusters](https://img.shields.io/badge/Topic_Clusters-7B1FA2?style=for-the-badge&logoColor=white)
@@ -107,21 +112,32 @@ Email       : Rankwithyaasir@gmail.com
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                     🔥 PREMIUM SEO SERVICES                     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ☁️  Cloud Stacking      →  Cloudflare · GitHub · GitLab         ║
-║                              Netlify · Codeberg Asset Networks   ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🔵 Google Authority     →  Sites · Docs · Sheets · Drive        ║
-║      Stacking               Powerful Internal Link Chains        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ✍️  Guest Post Links     →  DR40+ Website Outreach              ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🔍 Technical SEO Audit  →  Full Site Crawl & Fix               ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📍 Local SEO            →  UAE · USA · Pakistan                ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║                       🔥 PREMIUM SEO SERVICES                           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  ☁️  Cloud Stacking Backlinks  →  Cloudflare · GitHub · GitLab           ║
+║                                   Netlify · Codeberg Asset Networks      ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🔵 Google Entity Backlinks   →  Sites · Docs · Sheets · Drive           ║
+║                                   Powerful Internal Link Chains          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🌐 Web 2.0 Backlinks         →  High Authority Contextual Links         ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  ⚡  Nandla Backlinks          →  Premium Nandla Network Links           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  📦 Softranks                 →  Amazon Publisher · Chrome Extension     ║
+║                                   Firefox Addons Backlinks               ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  💬 Forum Backlinks           →  Niche Relevant Forum Authority          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  ✍️  Blog Commenting           →  Contextual Blog Comment Links          ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🎙️  Podcast Submission        →  Podcast Directory Backlinks            ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🎬 Video & PDF Submission    →  Multimedia Backlink Signals             ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  📰 Guest Posts               →  DR40+ Website Outreach                 ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -199,8 +215,8 @@ timeline
   <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="tel:+923099221249">
-  <img src="https://img.shields.io/badge/📱_+92_309_9221249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/923099221249?text=Hi%20Yasir%2C%20I%20need%20help%20with%20SEO%20for%20my%20website.%20Can%20you%20help%20me%3F" target="_blank">
+  <img src="https://img.shields.io/badge/📱_WhatsApp_%2B92_309_9221249-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <br/><br/>
