@@ -3,8 +3,11 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff88,100:00d4ff&height=200&section=header&text=Muhammad%20Yasir&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=SEO%20Specialist%20%7C%20Link%20Building%20Expert%20%7C%20Technical%20SEO&descSize=18&descAlignY=58&descColor=00ff88&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=🚀+Scaling+Websites+from+0+to+100K%2B+Monthly+Visitors;🔗+Cloud+Stacking+%26+Authority+Link+Builder;🧠+Semantic+SEO+%26+Topic+Cluster+Architect;⚡+Technical+SEO+Audits+%26+Core+Web+Vitals;📈+Google+Top+3+Rankings+Specialist" alt="Typing SVG" />
+🚀 **Scaling Websites from 0 → 100K+ Monthly Visitors**
+🔗 **Cloud Stacking & Authority Link Builder**
+🧠 **Semantic SEO & Topic Cluster Architect**
+⚡ **Technical SEO Audits & Core Web Vitals**
+📈 **Google Top 3 Rankings Specialist**
 
 <br/>
 
