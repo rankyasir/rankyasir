@@ -33,7 +33,7 @@
 Name        : Muhammad Yasir
 Title       : SEO Specialist | Link Building Expert
 Location    : Pakistan 🇵🇰
-Experience  : 6+ Years in SEO
+Experience  : 4+ Years in SEO
 Current     : Enigmatix (2024 – Present)
 Specialty   : Semantic SEO + Cloud Stacking
 Achievement : 0 → 100K+ Monthly Organic Visitors
